@@ -1,0 +1,10 @@
+DEALERS WORKING DURING LOSSES
+-----------------------------
+The times in question are 5AM, 8AM, 2PM, 8PM, and 11PM
+
+
+05:00:00 Billy Jones
+08:00:00 Billy Jones
+02:00:00 Billy Jones
+08:00:00 Billy Jones
+11:00:00 Billy Jones

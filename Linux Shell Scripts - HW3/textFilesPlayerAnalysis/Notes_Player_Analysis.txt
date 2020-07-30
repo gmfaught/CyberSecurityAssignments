@@ -1,0 +1,17 @@
+Notes Player Analysis
+
+1) Times the losses occured on each day:
+	March 10th: 5AM, 8AM, 2PM, 8PM, 11PM
+	March 13th: 5AM, 8AM, 2PM, 8PM, 11PM
+	March 15th: 5AM, 8AM, 2PM
+
+.... hmmm, something fishy is going on. The time of the losses are, for the
+     most part, the same on all three days
+
+2) Was there a certain player that was playing during each of those time?
+	A count was done and confirmed everyone who played just played once
+	with the exception of Mylie Schmidt.
+
+3) Total count of times this person played
+	Mylie Schmidt. She played on all days and at every time listed above.
+	She played 13 times.

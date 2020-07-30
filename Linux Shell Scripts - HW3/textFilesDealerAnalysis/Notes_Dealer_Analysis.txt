@@ -1,0 +1,10 @@
+Dealer Analysis for Losses at Lucky Duck Casino
+-----------------------------------------------
+
+Lucky Duck Casino had an unusual number of losses a couple months ago. 
+This analysis was deemed necessary because the quantity of losses was 
+highly unusual.
+
+Losses were discovered on March 10, March 12, and March 15.
+The losses occurred the same times and days when Billy Jones was the dealer.
+

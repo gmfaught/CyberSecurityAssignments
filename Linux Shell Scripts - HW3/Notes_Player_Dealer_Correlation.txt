@@ -1,0 +1,25 @@
+Player/Dealer Correlation
+--------------------------
+
+
+After an analysis of the roulette casino game, it has 
+been determined that there was collusion involved between one
+of our dealers, Billy Jones, and a player, Mylie Schmidt.
+
+An analysis was first done to see when the losses occurred. 
+They happened on March 10, March 13, and March 15.  Once the days
+were discovered, it was determined that the losses occurred at the
+same times: 5AM, 8AM, 2PM, 8PM, and 11PM.  On March 15th, however, there
+were no losses at 8PM and 11PM.
+
+Once the times were discovered, an analysis was done to see who was 
+playing and dealing at those times.  Strangely enough, Mylie Schmidt 
+played at all the times and dates of the losses.  One of our dealers,
+Billy Jones, was a dealer at the same days and times that Mylie Schmidt played.
+
+The fact that these losses occurred at the same days and times Mylie Schmidt
+and Billy Jones were present at the roulette casino game were highly unusual.
+Something must be going on.  It is the conclusion of this report that there
+was something nefarious going on and we should report to this to the local
+authorities.
+
